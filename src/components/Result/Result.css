@@ -1,0 +1,155 @@
+.BodyDivR {
+  height: 90%;
+  width: 100%;
+  background-color: rgb(8, 8, 8);
+  margin-top: 17%;
+  display: flex;
+  justify-content: center;
+}
+
+.childBodyDivR {
+}
+
+.startButtonR {
+  background-color: rgb(53, 53, 155);
+  width: 160px;
+  border: none;
+  color: white;
+  padding: 5% 7%;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 140%;
+  margin: 10% 0 0;
+  cursor: pointer;
+  font-family: system-ui;
+  margin-top: 8%;
+}
+
+.tsaButtonR {
+  background-color: rgb(53, 53, 155);
+  width: 160px;
+  border: none;
+  color: white;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  position: fixed;
+  font-size: 130%;
+  padding: 1% 5%;
+  margin: auto;
+  cursor: pointer;
+  font-family: system-ui;
+  left: 0;
+  right: 0;
+  bottom: 10%;
+  border-radius: 5px;
+}
+
+.tsaPR {
+  width: 80%;
+  color: white;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  position: fixed;
+  font-size: 80%;
+  margin: auto;
+  font-family: system-ui;
+  left: 0;
+  right: 0;
+  bottom: 20%;
+}
+
+.disabledClassR {
+  background-color: #c0c0e4;
+}
+
+.countryEntriesR {
+  z-index: 10;
+  background-color: wheat;
+  position: absolute;
+  width: 293px;
+  margin: auto;
+  left: 0;
+  right: 0;
+}
+
+.allowanceMessageR {
+  color: white;
+  margin-left: 5%;
+  margin-right: 5%;
+  font-size: 120%;
+  text-align: left;
+}
+
+.learnH2R {
+  color: rgb(202, 192, 192);
+}
+
+.allowanceMessageDiv {
+  max-height: 30%;
+  overflow: scroll;
+  background-color: rgb(84, 84, 184);
+  width: 90%;
+  margin: auto;
+  border-radius: 5px;
+}
+
+.responseDivR {
+  margin: auto;
+  width: 90%;
+  margin-top: 10%;
+  background-color: rgb(84, 84, 184);
+  border-radius: 5px;
+  padding-top: 0.1%;
+  padding-bottom: 0.1%;
+}
+
+.myContainer {
+  height: 90%;
+  margin-top: 22%;
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  background-color: black;
+  overflow: scroll;
+}
+
+.myCard {
+  font-size: 150%;
+  margin-top: 25px;
+}
+
+.myP {
+  width: 80%;
+  color: white;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  /* position: fixed; */
+  font-size: 80%;
+  margin: auto;
+  font-family: system-ui;
+  margin: 5% 10%;
+}
+
+.myTSA {
+  background-color: rgb(53, 53, 155);
+  width: 160px;
+  border: none;
+  color: white;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 130%;
+  padding: 1% 5%;
+  margin: 1% auto;
+  cursor: pointer;
+  font-family: system-ui;
+  border-radius: 5px;
+}
+
+.myDescription {
+  font-size: 100%;
+}

@@ -1,0 +1,72 @@
+.BodyDivSD {
+  height: 90%;
+  width: 100%;
+  background-color: rgb(8, 8, 8);
+  margin-top: 17%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.childBodyDivSD {
+}
+
+.startButtonSD {
+  background-color: rgb(53, 53, 155);
+  width: 160px;
+  border: none;
+  color: white;
+  padding: 5% 7%;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 140%;
+  margin: 10% 0 0;
+  cursor: pointer;
+  font-family: system-ui;
+  margin-top: 8%;
+  border-radius: 5px;
+}
+
+.disabledClassSD {
+  background-color: #c0c0e4;
+}
+
+.destinationInputSD {
+  width: 290px;
+  font-size: 150%;
+}
+
+.sourceInputSD {
+  width: 290px;
+  font-size: 150%;
+}
+
+.countryEntriesSD {
+  z-index: 10;
+  background-color: wheat;
+  position: absolute;
+  width: 293px;
+  margin: auto;
+  left: 0;
+  right: 0;
+}
+
+.eachCountrySD {
+  width: 100%;
+  height: 20%;
+  border: 1px solid gray;
+  text-align: left;
+  font-size: 20px;
+}
+
+.countryNameSD {
+  margin-left: 2%;
+}
+
+.inputLabelSD {
+  color: white;
+  width: 100%;
+  font-size: 140%;
+  margin: 2% 0 0 0;
+}

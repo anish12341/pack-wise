@@ -1,0 +1,42 @@
+.BodyDiv {
+  height: 90%;
+  width: 100%;
+  background-color: rgb(8, 8, 8);
+  margin-top: 17%;
+  display: flex;
+  justify-content: center;
+}
+
+.introText {
+  color: white;
+  font-size: 140%;
+  font-family: system-ui;
+  max-width: 100%;
+}
+
+.startButton {
+  background-color: rgb(53, 53, 155);
+  width: 170px;
+  border: none;
+  color: white;
+  padding: 5% 7%;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 140%;
+  margin: 10% 0 0;
+  cursor: pointer;
+  font-family: system-ui;
+  border-radius: 5px;
+}
+
+.infoDivR {
+  margin: auto;
+  width: 90%;
+  margin-top: 10%;
+  background-color: rgb(84, 84, 184);
+  border-radius: 5px;
+  padding-top: 0.1%;
+  padding-bottom: 0.1%;
+  margin-top: 50%;
+}

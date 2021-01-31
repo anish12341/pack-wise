@@ -1,0 +1,31 @@
+.BodyDivTP {
+  height: 90%;
+  width: 100%;
+  background-color: rgb(8, 8, 8);
+  margin-top: 17%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.startButtonTP {
+  background-color: rgb(53, 53, 155);
+  width: 170px;
+  border: none;
+  color: white;
+  padding: 5% 7%;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 140%;
+  cursor: pointer;
+  font-family: system-ui;
+  border-radius: 5px;
+  margin-top: 10%;
+  margin-left: 2%;
+  margin-right: 2%;
+}
+
+.disabledClassTP {
+  background-color: #c0c0e4;
+}
